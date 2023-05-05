@@ -8,7 +8,6 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
 ## Before You Begin
-_____
 Create a new repository for this project called `sql-challenge`. Do not add this assignment to an existing repository.
 
 Clone the new repository to your computer.
