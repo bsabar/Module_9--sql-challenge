@@ -1,5 +1,5 @@
 # Module 9 Challenge: sql-challenge
-This module covers an introduction to SQL, writing advanced SQL queries, using Postgres, and pgAdmin, loading data from CSV files into a database, and querying the data and data modeling. And to apply all the week's learning to completing a sql-challenge below. 
+This module covers an introduction to SQL, writing advanced SQL queries, using Postgres, and pgAdmin, loading data from CSV files into a database, and querying the data and data modeling. And to apply and demonstrate all the cool learning this week by knocking down a sql-challenge below.
 
 ## Background
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
