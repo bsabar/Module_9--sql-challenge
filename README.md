@@ -52,7 +52,6 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 ## Requirements
-___
 ### Data Modeling (10 points)
 * Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
 
